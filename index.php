@@ -1,2 +1,2 @@
 <? 
-header('Location: http://www.ibcentralleste.com/web');
+header('Location: /web');
